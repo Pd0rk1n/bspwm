@@ -1,0 +1,33 @@
+2025/01/11-00:08:16.595 bec Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2025/01/11-00:08:16.602 bec Recovering log #3337
+2025/01/11-00:08:16.603 bec Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/003337.log 
+2025/01/11-00:08:55.899 bf7 Level-0 table #3341: started
+2025/01/11-00:08:55.925 bf7 Level-0 table #3341: 4292803 bytes OK
+2025/01/11-00:08:55.928 bf7 Delete type=0 #3337
+2025/01/11-00:09:49.849 bec Level-0 table #3343: started
+2025/01/11-00:09:49.883 bec Level-0 table #3343: 5813913 bytes OK
+2025/01/11-00:09:49.887 bec Delete type=0 #3340
+2025/01/11-00:09:49.888 bec Compacting 4@0 + 2@1 files
+2025/01/11-00:09:49.905 bec Generated table #3344@0: 4 keys, 2388051 bytes
+2025/01/11-00:09:49.920 bec Generated table #3345@0: 6 keys, 2319285 bytes
+2025/01/11-00:09:49.954 bec Generated table #3346@0: 2 keys, 6022471 bytes
+2025/01/11-00:09:49.957 bec Generated table #3347@0: 4 keys, 481 bytes
+2025/01/11-00:09:49.957 bec Compacted 4@0 + 2@1 files => 10730288 bytes
+2025/01/11-00:09:49.959 bec compacted to: files[ 0 4 9 0 0 0 0 ]
+2025/01/11-00:09:49.960 bec Delete type=2 #3341
+2025/01/11-00:09:49.960 bec Delete type=2 #3324
+2025/01/11-00:09:49.960 bec Delete type=2 #3343
+2025/01/11-00:09:49.960 bec Delete type=2 #3336
+2025/01/11-00:09:49.960 bec Delete type=2 #3323
+2025/01/11-00:09:49.960 bec Delete type=2 #3338
+2025/01/11-00:09:49.963 bec Compacting 1@1 + 2@2 files
+2025/01/11-00:09:49.976 bec Generated table #3348@1: 11 keys, 2150023 bytes
+2025/01/11-00:09:49.991 bec Generated table #3349@1: 7 keys, 2439705 bytes
+2025/01/11-00:09:49.991 bec Compacted 1@1 + 2@2 files => 4589728 bytes
+2025/01/11-00:09:49.993 bec compacted to: files[ 0 3 9 0 0 0 0 ]
+2025/01/11-00:09:49.993 bec Delete type=2 #3345
+2025/01/11-00:09:49.993 bec Delete type=2 #3307
+2025/01/11-00:09:49.993 bec Delete type=2 #3331
+2025/01/11-00:09:53.463 bf8 Level-0 table #3351: started
+2025/01/11-00:09:53.510 bf8 Level-0 table #3351: 5380002 bytes OK
+2025/01/11-00:09:53.513 bf8 Delete type=0 #3342

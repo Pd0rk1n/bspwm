@@ -1,0 +1,847 @@
+/home/pd0rk1n/.config/bspwm/autostart.sh: line 38: dex: command not found
+/home/pd0rk1n/.config/bspwm/autostart.sh: line 39: xsetroot: command not found
+/home/pd0rk1n/.config/bspwm/autostart.sh: line 41: conky: command not found
+/home/pd0rk1n/.config/bspwm/autostart.sh: line 47: blueberry-tray: command not found
+config: Unknown setting: 'border_radius'.
+feh WARNING: /usr/share/backgrounds/archlinux/arch-wallpaper.jpg does not exist - skipping
+feh: No loadable images specified.
+See 'feh --help' or 'man feh' for detailed usage information
+pgrep: pattern that searches for process name longer than 15 characters will result in zero matches
+Try `pgrep -f' option to match against the complete command line.
+/home/pd0rk1n/.config/bspwm/autostart.sh: line 6: pamac-tray: command not found
+polybar|notice:  Parsing config file: /home/pd0rk1n/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 685)
+polybar|notice:  Loading module 'bspwm' of type 'internal/bspwm'
+polybar|notice:  Loading module 'xwindow' of type 'internal/xwindow'
+polybar|notice:  Loading module 'kernel' of type 'custom/script'
+polybar|notice:  Loading module 'pacman-updates2' of type 'custom/script'
+polybar|notice:  Loading module 'memory2' of type 'internal/memory'
+polybar|notice:  Loading module 'cpu1' of type 'internal/cpu'
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'pavolume' of type 'custom/script'
+polybar|notice:  Loading module 'tray' of type 'internal/tray'
+polybar|notice:  Loaded 9 modules
+polybar|notice:  Parsing config file: /home/pd0rk1n/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 739)
+polybar|notice:  Loaded font "Noto Sans:size=10" (name=Noto Sans, offset=0, file=/usr/share/fonts/noto/NotoSans-Regular.ttf)
+polybar|notice:  Loaded font "FontAwesome:size=13" (name=FontAwesome, offset=0, file=/usr/share/fonts/awesome-terminal-fonts/fontawesome-regular.ttf)
+polybar|notice:  Loaded font "Noto Sans:size=10" (name=Noto Sans, offset=0, file=/usr/share/fonts/noto/NotoSans-Regular.ttf)
+polybar|notice:  Loaded font "Noto Sans Mono:size=10" (name=Noto Sans Mono, offset=0, file=/usr/share/fonts/noto/NotoSansMono-Regular.ttf)
+polybar|error: Uncaught exception, shutting down: No modules created
+Could not grab key 123 with modfield 0: the combination is already grabbed.
+Could not grab key 123 with modfield 16: the combination is already grabbed.
+Could not grab key 123 with modfield 2: the combination is already grabbed.
+Could not grab key 123 with modfield 18: the combination is already grabbed.
+Could not grab key 122 with modfield 0: the combination is already grabbed.
+Could not grab key 122 with modfield 16: the combination is already grabbed.
+Could not grab key 122 with modfield 2: the combination is already grabbed.
+Could not grab key 122 with modfield 18: the combination is already grabbed.
+Could not grab key 121 with modfield 0: the combination is already grabbed.
+Could not grab key 121 with modfield 16: the combination is already grabbed.
+Could not grab key 121 with modfield 2: the combination is already grabbed.
+Could not grab key 121 with modfield 18: the combination is already grabbed.
+
+(xfce4-power-manager:662): xfce4-power-manager-WARNING **: 00:21:03.512: Unable to connect to session manager : Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+ERROR: 2025-01-11 00:21:03,687: perform_upgrade() 'Error during version upgrade. Continuing.'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/variety/VarietyWindow.py", line 2283, in perform_upgrade
+    if Util.compare_versions(last_version, "0.4.13") < 0:
+       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/site-packages/variety/Util.py", line 768, in compare_versions
+    from pkg_resources import parse_version
+ModuleNotFoundError: No module named 'pkg_resources'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+WARNING: 2025-01-11 00:21:03,793: create_menu() 'Variety Slideshow is not installed. This is an optional extension adding pan-and-zoom slideshows to Variety: see https://github.com/peterlevi/variety-slideshow for details'
+WARNING: The convert command is deprecated in IMv7, use "magick" instead of "convert" or "magick convert"
+
+polybar|error: Failed to reconfigure client(0x1c00003, variety), removing... (XCB_WINDOW (3))
+polybar|error: tray: Failed to unembed window '' (0x1c00003)
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+
+(variety:664): Gdk-CRITICAL **: 00:21:03.951: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+ERROR: 2025-01-11 00:21:24,000: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/variety/VarietyWindow.py", line 1084, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+                          ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/site-packages/variety/Util.py", line 684, in fetch_json
+    return Util.request(url, data, **request_kwargs).json()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+ERROR: 2025-01-11 00:21:54,221: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/variety/VarietyWindow.py", line 1084, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+                          ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/site-packages/variety/Util.py", line 684, in fetch_json
+    return Util.request(url, data, **request_kwargs).json()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+
+(xfce4-terminal:5099): xfce4-terminal-WARNING **: 00:22:22.594: Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+ERROR: 2025-01-11 00:22:24,469: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/variety/VarietyWindow.py", line 1084, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+                          ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/site-packages/variety/Util.py", line 684, in fetch_json
+    return Util.request(url, data, **request_kwargs).json()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+ERROR: 2025-01-11 00:22:54,690: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/variety/VarietyWindow.py", line 1084, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+                          ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/site-packages/variety/Util.py", line 684, in fetch_json
+    return Util.request(url, data, **request_kwargs).json()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+
+(xfce4-terminal:5204): xfce4-terminal-WARNING **: 00:23:05.594: Failed to connect to session manager: Failed to connect to the session manager: SESSION_MANAGER environment variable not defined
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+ERROR: 2025-01-11 00:23:24,898: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/variety/VarietyWindow.py", line 1084, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+                          ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/site-packages/variety/Util.py", line 684, in fetch_json
+    return Util.request(url, data, **request_kwargs).json()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/site-packages/requests/models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5349:5349:0111/002353.306387:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.308758:ERROR:kwallet_dbus.cc(117)] Error contacting kwalletd6 (isEnabled)
+[5349:5349:0111/002353.308924:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.308936:ERROR:kwallet_dbus.cc(86)] Error contacting klauncher to start kwalletd6
+[5349:5349:0111/002353.309783:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.309796:ERROR:kwallet_dbus.cc(412)] Error contacting kwalletd6 (close)
+[5349:5349:0111/002353.310573:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd5: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.310592:ERROR:kwallet_dbus.cc(117)] Error contacting kwalletd5 (isEnabled)
+[5349:5349:0111/002353.310755:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.310767:ERROR:kwallet_dbus.cc(86)] Error contacting klauncher to start kwalletd5
+[5349:5349:0111/002353.310870:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd5: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.310880:ERROR:kwallet_dbus.cc(412)] Error contacting kwalletd5 (close)
+[5349:5349:0111/002353.311498:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.311509:ERROR:kwallet_dbus.cc(117)] Error contacting kwalletd (isEnabled)
+[5349:5349:0111/002353.311603:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.311612:ERROR:kwallet_dbus.cc(86)] Error contacting klauncher to start kwalletd
+[5349:5349:0111/002353.311696:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[5349:5349:0111/002353.311705:ERROR:kwallet_dbus.cc(412)] Error contacting kwalletd (close)
+[5349:5369:0111/002353.405315:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[5349:5369:0111/002353.405337:ERROR:select_file_dialog_linux_portal.cc(290)] Failed to read portal version property
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5349:5349:0111/002354.203793:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.portal.Secret.RetrieveSecret: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Secret” on object at path /org/freedesktop/portal/desktop
+[5349:5349:0111/002354.203817:ERROR:secret_portal_key_provider.cc(150)] Failed to retrieve secret: No response from portal.
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5390:5400:0111/002407.814600:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5390:5400:0111/002407.815077:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5390:5400:0111/002407.821072:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5390:5400:0111/002407.822869:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5390:5400:0111/002407.915603:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5390:5400:0111/002407.924075:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5390:5400:0111/002416.123878:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5390:5400:0111/002418.301882:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5390:5400:0111/002418.666846:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -107
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5390:5400:0111/002428.815238:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5390:5400:0111/002432.059140:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -107
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5390:5400:0111/002433.628203:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -100
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+[5349:5369:0111/002453.982689:ERROR:feed_v2_builder.cc(175)] Finished feed generation (no eligible content groups or no articles)
+[5349:5369:0111/002453.982714:ERROR:feed_v2_builder.cc(175)] Finished feed generation (no eligible content groups or no articles)
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+
+(nemo:5773): Nemo-WARNING **: 00:27:42.113: Current gtk theme is not known to have nemo support (Dracula) - checking...
+
+(nemo:5773): Gtk-WARNING **: 00:27:42.255: Creating a portal monitor failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+
+(nemo:5773): Nemo-WARNING **: 00:27:42.396: Action '90_new-launcher.nemo_action' is missing dependency: cinnamon-desktop-editor
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+
+(xed:5802): libenchant-WARNING **: 00:28:20.150: broker.vala:159: Error loading plugin: libnuspell.so.5: cannot open shared object file: No such file or directory
+
+(xed:5802): libenchant-WARNING **: 00:28:20.151: broker.vala:159: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+(xed:5802): libenchant-WARNING **: 00:28:20.152: broker.vala:159: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+(xed:5802): libenchant-WARNING **: 00:28:20.152: broker.vala:159: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+(xed:5802): libenchant-WARNING **: 00:28:20.157: broker.vala:159: Error loading plugin: libnuspell.so.5: cannot open shared object file: No such file or directory
+
+(xed:5802): libenchant-WARNING **: 00:28:20.157: broker.vala:159: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+(xed:5802): libenchant-WARNING **: 00:28:20.157: broker.vala:159: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+(xed:5802): libenchant-WARNING **: 00:28:20.157: broker.vala:159: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+
+(xed:5802): Gtk-WARNING **: 00:28:46.919: Calling org.freedesktop.portal.Inhibit.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|warn:  Dropping unmatched character '🗘' (U+1f5d8) in ' 🗘'
+polybar|notice:  Received signal(15): Terminated
+polybar|notice:  Termination signal received, shutting down...

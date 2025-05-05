@@ -1,0 +1,46 @@
+title = "ArchLinux Kernel Manager Settings"
+
+[kernels]
+
+# Kernels which are sourced from https://archive.archlinux.org
+official = [
+    { name = "linux", description = "The Linux kernel and modules (Stable)", headers = "linux-headers" },
+    { name = "linux-lts", description = "The LTS Linux kernel and modules (Longterm)", headers = "linux-lts-headers" },
+    { name = "linux-zen", description = "The Linux ZEN kernel and modules (Zen)", headers = "linux-zen-headers" },
+    { name = "linux-hardened", description = "The Security-Hardened Linux kernel and modules (Hardened)", headers = "linux-hardened-headers" },
+    { name = "linux-rt", description = "The Linux RT kernel and modules (Realtime)", headers = "linux-rt-headers" },
+    { name = "linux-rt-lts", description = "The Linux RT LTS kernel and modules (Realtime Longterm)", headers = "linux-rt-lts-headers" },
+]
+
+# Kernels which are sourced from unofficial repositories, these won't work if you haven't updated your pacman configuration
+# https://wiki.archlinux.org/title/Unofficial_user_repositories
+community = [
+    { name = "linux-cachyos", description = "The Linux EEVDF-BORE scheduler Kernel by CachyOS with other patches and improvements kernel and modules", headers = "linux-cachyos-headers", repository = "chaotic-aur" },
+    { name = "linux-cachyos-lts", description = "The Linux EEVDF-BORE scheduler Kernel by CachyOS with other patches and improvements kernel and modules", headers = "linux-cachyos-lts-headers", repository = "chaotic-aur" },
+    { name = "linux-ck", description = "The Linux kernel and modules with ck's hrtimer patches", headers = "linux-ck-headers", repository = "repo-ck" },
+    { name = "linux-clear", description = "The Clear Linux kernel and modules", headers = "linux-clear-headers", repository = "chaotic-aur" },
+    { name = "linux-lqx", description = "The Linux Liquorix kernel and modules", headers = "linux-lqx-headers", repository = "chaotic-aur" },
+    { name = "linux-mainline", description = "The Linux Mainline kernel and modules", headers = "linux-mainline-headers", repository = "chaotic-aur" },
+    { name = "linux-nitrous", description = "Modified Linux kernel optimized for Skylake and newer, compiled using clang", headers = "linux-nitrous-headers", repository = "chaotic-aur" },
+    { name = "linux-vfio", description = "The Linux kernel and modules (ACS override and i915 VGA arbiter patches)", headers = "linux-vfio-headers", repository = "chaotic-aur" },
+    { name = "linux-vfio-lts", description = "The Linux kernel and modules (ACS override and i915 VGA arbiter patches)", headers = "linux-vfio-lts-headers", repository = "chaotic-aur" },
+    { name = "linux-vfio-x64v3", description = "The Linux kernel and modules (ACS override and i915 VGA arbiter patches)", headers = "linux-vfio-x64v3-headers", repository = "chaotic-aur" },
+    { name = "linux-xanmod-edge-x64v3", description = "Headers and scripts for building modules for the Linux Xanmod - Rolling Release [EDGE] kernel", headers = "linux-xanmod-edge-x64v3-headers", repository = "chaotic-aur" },
+    { name = "linux-xanmod-lts", description = "Headers and scripts for building modules for the Linux Xanmod - Long Term Support [LTS] kernel", headers = "linux-xanmod-lts-headers", repository = "chaotic-aur" },
+    { name = "linux-xanmod-rt", description = "The Linux kernel and modules with Xanmod patches", headers = "linux-xanmod-rt-headers", repository = "chaotic-aur" },
+    { name = "linux-xanmod-x64v2", description = "Headers and scripts for building modules for the Linux Xanmod - Stable Mainline [MAIN] kernel", headers = "linux-xanmod-x64v2-headers", repository = "chaotic-aur" },
+    { name = "linux-znver2", description = "The Linux kernel and modules - amd znver2", headers = "linux-znver2-headers", repository = "chaotic-aur" },
+    { name = "linux-znver3", description = "The Linux kernel and modules - amd znver3", headers = "linux-znver3-headers", repository = "chaotic-aur" },
+    { name = "linux-znver4", description = "The Linux kernel and modules - amd znver4", headers = "linux-znver4-headers", repository = "chaotic-aur" },
+]
+
+[logging]
+# Logging is either info or debug
+loglevel = "info"
+
+# Custom bootloader example
+# Only systemd-boot or grub are valid names
+# When using grub also set grub_config
+#[bootloader]
+#name = "grub"
+#grub_config = "/boot/grub/grub.cfg"

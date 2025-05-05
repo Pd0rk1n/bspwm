@@ -1,0 +1,27 @@
+2025/01/11-00:23:54.392 1503 Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2025/01/11-00:23:54.393 1503 Recovering log #3192
+2025/01/11-00:23:54.413 1503 Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/003192.log 
+2025/01/11-00:24:00.973 14f7 Level-0 table #3196: started
+2025/01/11-00:24:00.990 14f7 Level-0 table #3196: 2084534 bytes OK
+2025/01/11-00:24:00.993 14f7 Delete type=0 #3192
+2025/01/11-00:24:02.118 14f7 Level-0 table #3198: started
+2025/01/11-00:24:02.138 14f7 Level-0 table #3198: 2090338 bytes OK
+2025/01/11-00:24:02.141 14f7 Delete type=0 #3195
+2025/01/11-00:24:04.693 14f7 Level-0 table #3200: started
+2025/01/11-00:24:04.729 14f7 Level-0 table #3200: 2093001 bytes OK
+2025/01/11-00:24:04.734 14f7 Delete type=0 #3197
+2025/01/11-00:24:04.735 14f7 Compacting 4@0 + 1@1 files
+2025/01/11-00:24:04.753 14f7 Generated table #3201@0: 5 keys, 235234 bytes
+2025/01/11-00:24:04.753 14f7 Compacted 4@0 + 1@1 files => 235234 bytes
+2025/01/11-00:24:04.756 14f7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/11-00:24:04.757 14f7 Delete type=2 #3191
+2025/01/11-00:24:04.757 14f7 Delete type=2 #3196
+2025/01/11-00:24:04.757 14f7 Delete type=2 #3198
+2025/01/11-00:24:04.757 14f7 Delete type=2 #3200
+2025/01/11-00:24:04.757 14f7 Delete type=2 #3193
+2025/01/11-00:25:00.028 14f7 Level-0 table #3203: started
+2025/01/11-00:25:00.060 14f7 Level-0 table #3203: 2094064 bytes OK
+2025/01/11-00:25:00.062 14f7 Delete type=0 #3199
+2025/01/11-00:25:51.740 14f7 Level-0 table #3205: started
+2025/01/11-00:25:51.768 14f7 Level-0 table #3205: 2096261 bytes OK
+2025/01/11-00:25:51.772 14f7 Delete type=0 #3202
